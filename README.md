@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ahmedshrkawy0001
+- 👀 I’m interested in embedded system ,c language coding,electronics & electric machines .
+- 🌱 I’m currently learning c language and how to use it with embedded system .
